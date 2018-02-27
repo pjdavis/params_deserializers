@@ -1,0 +1,5 @@
+Description:
+    Generates a deserializer for the given resource.
+
+Example:
+    `rails generate params_deserializer User first_name last_name birthday`

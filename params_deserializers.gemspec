@@ -48,4 +48,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'rails', '>= 4.2'
   s.add_development_dependency 'rspec-rails'
+  s.add_development_dependency 'generator_spec'
 end
